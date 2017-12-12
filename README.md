@@ -8,7 +8,7 @@ Pro programování budeme využívat naši [desku Arduino Learning Kit Starter](
 
 K ALKS máme připravenou vlastní knihovnu: [zde můžete najít dokumentaci a popis knihovny (připraveno pro prostředí PlatformIO)](http://platformio.org/lib/show/1745/ArduinoLearningKitStarter)
 
-Odkaz pro [stažení knihovný do Arduino IDE](https://github.com/RoboticsBrno/ArduinoLearningKitStarter-library/releases) (stačí stáhnout zip archiv a [naimportovat do IDE [EN]](https://www.arduino.cc/en/Guide/Libraries#toc4)).
+Odkaz pro [stažení knihovný do Arduino IDE pro ALKS s ESP32](https://github.com/RoboticsBrno/ArduinoLearningKitStarter-library/releases/latest) (stačí stáhnout zip archiv a [naimportovat do IDE [EN]](https://www.arduino.cc/en/Guide/Libraries#toc4)).
 
 
 ### Arduino IDE

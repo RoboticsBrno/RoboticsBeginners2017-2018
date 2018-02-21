@@ -3,10 +3,10 @@
 // Generování PWM signálu pomocí delay()/ delayMicroseconds()
 // info PWM: https://cs.wikipedia.org/wiki/Pulzn%C4%9B_%C5%A1%C3%AD%C5%99kov%C3%A1_modulace
 
-const int PWM_pin = L_R; 
+const int PWM_pin = L_R; // pin na kterém budeme generovat PWM signál 
 
 void setup() {
-  pinMode(PWM_pin, OUTPUT);  // S1 - výstup pro serva        
+  pinMode(PWM_pin, OUTPUT);  // PWM_pin nastaven na výstupní
 }
 
 void loop() {
